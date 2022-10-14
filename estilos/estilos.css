@@ -41,22 +41,3 @@ nav.menu a {
   text-transform: uppercase;
   text-decoration: none;
 }
-
-main .lastnews {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  max-width: 1000px;
-}
-
-main .imgcol1 {
-  display: grid;
-  grid-column: 1;
-  max-width: 100%;
-}
-
-main .imgcol2 {
-  display: grid;
-  grid-column: 2;
-  max-width: 100%;
-  margin: auto;
-}
